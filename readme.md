@@ -48,7 +48,6 @@
 # 🟡 Contribution Graph
 
 ![pacman](https://raw.githubusercontent.com/Not-yourtype/Not-yourtype/output/pacman-contribution-graph.svg)
-
 ---
 
 # 🚀 Current Focus
